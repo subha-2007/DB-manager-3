@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Clinical — Hospital DB & RBAC Manager",
+  "description": "Clinical hospital database and role-based access control manager featuring real-time staff shift overlap validation and an interactive live SQL DDL/DML execution workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
